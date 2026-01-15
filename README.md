@@ -1,4 +1,4 @@
-<img width="129" height="201" alt="image" src="https://github.com/user-attachments/assets/54460472-23a2-4976-a7e0-5c6e14869db1" /># Predictive-Analytics-using-Statistics
+# Predictive-Analytics-using-Statistics
 Name: Manya Singh
 Roll Number: 102317119
 Course: Predictive Analytics
@@ -14,14 +14,6 @@ python 102317119.py 102317119-data.csv "1,1,1,1,1" "+,+,+,-,+" 102317119-result.
 ```
 ----------------------------------
 # output
-TOPSIS Score	Rank
-0.727426147	   1
-0.373553711	   7
-0.377401479	   6
-0.485626869    4
-0.541100493    2
-0.335140103	   8
-0.472889024	   5
-0.53356827	   3
+<img width="129" height="201" alt="image" src="https://github.com/user-attachments/assets/54460472-23a2-4976-a7e0-5c6e14869db1" />
 
 -----------------------------------
