@@ -12,5 +12,14 @@ python 102317119.py 102317119-data.csv "1,1,1,1,1" "+,+,+,-,+" 102317119-result.
 
 ```
 # output
-### Result Screenshot
-![TOPSIS Result](topsis_result.png)
+TOPSIS Score
+0.727426147
+0.373553711
+0.377401479
+0.485626869
+0.541100493
+0.335140103
+0.472889024
+0.53356827
+<img width="65" height="32766" alt="image" src="https://github.com/user-attachments/assets/ebf4d62b-de12-411f-83b9-2e6010e9b4d2" />
+
